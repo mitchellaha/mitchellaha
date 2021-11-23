@@ -1,9 +1,9 @@
-<h1 align="center">Heyo! I'm Mitch</h1>
+<h1 align="center">I'm Mitch</h1>
 <!-- <h3 align="center">" Yeah, I Think I Could Probably Do It Better "</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchellaha&label=Views&color=0e75b6&style=flat" alt="mitchellaha" /> </p>
 
-- 🔭 I’m currently working on **Rebuilding & Learning**
+- 🔭 I’m currently working on **Automating Everything**
 
 - 🌱 I’m currently learning **ArcGIS Leaflet Integration🗺️**
 
