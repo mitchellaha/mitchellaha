@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchellaha&label=Views&color=0e75b6&style=flat" alt="mitchellaha" /> </p>
 
-- 🔭 I’m currently working on **Automating Everything**
+- 🔭 I’m currently working on **Automating Everything and Creating a Department Wide Dashboard**
 
-- 🌱 I’m currently learning **ArcGIS Leaflet Integration🗺️**
+- 🌱 I’m currently learning **Best Practices for Integrating Leaflet & Chart.JS into an Existing Ecosystem🗺️**
 
-- 💬 Ask me about **Temporary Traffic Control Standards**
+- 💬 Ask me about **MUTCD Standards**
 
 - ⚡ Fun fact **I Really Like Maps! Its that simple**
 
