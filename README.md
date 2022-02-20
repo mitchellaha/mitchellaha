@@ -4,12 +4,13 @@
 
 
 - 🔭 I’m currently working on **Automating Everything and Creating a Department Wide Dashboard**
-
+<!-- 
 - 🌱 I’m currently learning **Best Practices for Integrating Leaflet & Chart.JS into an Existing Ecosystem🗺️**
 
 - 💬 Ask me about **MUTCD Standards**
 
 - ⚡ Fun fact **I Really Like Maps! Its that simple**
+-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
