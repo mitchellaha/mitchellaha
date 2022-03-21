@@ -90,13 +90,11 @@
     </a>
 </p>
 
-<center>
+<div align="center">
 <a href="https://github.com/mitchellaha/mitchellaha/blob/main/ProgramsIveWorkedWith.md" target="_blank"> 
 Full List!
 </a>
-
-
-</center>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mitchellaha&label=Views&color=0e75b6&style=flat" alt="mitchellaha" /> </p>
 
