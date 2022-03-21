@@ -12,6 +12,18 @@
 - ⚡ Fun fact **I Really Like Maps! Its that simple**
 -->
 
+<div align="center">
+
+<a href="https://github.com/mitchellaha">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellaha&layout=compact&theme=radical"/>
+</a>
+
+<a href="https://github.com/mitchellaha">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchellaha&show_icons=true&include_all_commits=true&theme=radical"/>
+</a>
+
+</div>
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -79,8 +91,10 @@
 </p>
 
 <center>
+<a href="https://github.com/mitchellaha/mitchellaha/blob/main/ProgramsIveWorkedWith.md" target="_blank"> 
+Full List!
+</a>
 
-[Full List](ProgramsIveWorkedWith.md)
 
 </center>
 
