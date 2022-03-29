@@ -15,11 +15,11 @@
 <div align="center">
 
 <a href="https://github.com/mitchellaha">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellaha&layout=compact&theme=radical"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchellaha&show_icons=true&include_all_commits=true&theme=radical"/>
 </a>
 
 <a href="https://github.com/mitchellaha">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchellaha&show_icons=true&include_all_commits=true&theme=radical"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellaha&layout=compact&theme=radical"/>
 </a>
 
 </div>
