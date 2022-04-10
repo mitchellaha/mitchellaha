@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Mitch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=mitchellaha&label=Views&color=0e75b6&style=flat" alt="mitchellaha" /></h1>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mitchellaha&label=Views&color=0e75b6&style=flat" alt="mitchellaha" /> </p> -->
 
 ## 🔥 Streak Stats
 
@@ -9,8 +8,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mitch's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchellaha&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
---------------------------------------------------------------------------------
 
 ## 👥 Connect With Me
 
@@ -39,7 +36,7 @@
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://ohmyz.sh/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="zsh" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
