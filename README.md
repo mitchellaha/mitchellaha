@@ -110,7 +110,8 @@
 
 ## 📊 Github Stats
 
-  <summary>💻 GitHub Profile Stats</summary>
+<detail>
+    <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/mitchellaha">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchellaha&show_icons=true&include_all_commits=true&theme=radical" height="192px"/>
@@ -120,6 +121,7 @@
     </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</detail>
 
 --------------------------------------------------------------------------------
 
