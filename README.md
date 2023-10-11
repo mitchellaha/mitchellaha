@@ -123,14 +123,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/mitchellaha/github-readme-activity-graph"><img alt="Mitch's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mitchellaha&custom_title=Mitchellaha's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
-</details>
-
 --------------------------------------------------------------------------------
 
 <h4 align='center'> 🎈 Most Of My Repositories are Private Right Now, <b>Sorry! 🎈 </h4>
